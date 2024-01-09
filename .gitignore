@@ -30,8 +30,10 @@ yarn-error.log
 
 # Miscellaneous
 /.angular/cache
+/.angular/
 .sass-cache/
 /connect.lock
+/package-lock.json
 /coverage
 /libpeerconnection.log
 testem.log
